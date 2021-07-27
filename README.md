@@ -1,6 +1,6 @@
-# windows-11-taskbar
+## windows-11-taskbar
 
-## Description
+
 This repository is an attempt to recreate the Windows 11 taskbar and its icons (in .svg format)
 
 
