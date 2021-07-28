@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" viewBox="0 0 500 500">
-   <rect x="268.497" y="340.447" width="26.059" height="24.701" style="fill: rgb(9, 93, 170);" bx:origin="0.442 0.504"/>
-  <rect x="271.075" y="342.814" width="10.794" height="19.935" style="fill: rgb(241, 241, 241);" rx="1.024" ry="1.024"/>
-  <rect x="283.798" y="342.506" width="8.339" height="11.883" style="fill: rgb(64, 230, 232);"/>
-  <rect x="283.724" y="354.854" width="8.412" height="3.992" style="fill: rgb(38, 167, 176);" rx="0.835" ry="0.835"/>
-  <rect x="283.905" y="359.156" width="7.958" height="3.603" style="fill: rgb(15, 152, 181);"/>  
+   <rect x="268.497" y="340.447" width="53" height="50" style="fill: rgb(9, 93, 170);" bx:origin="0.442 0.504"/>
+  <rect x="271.075" y="342.814" width="22" height="39" style="fill: rgb(241, 241, 241);" rx="1.024" ry="1.024"/>
+  <rect x="283.798" y="342.506" width="18" height="24" style="fill: rgb(64, 230, 232);"/>
+  <rect x="283.724" y="354.854" width="16" height="8" style="fill: rgb(38, 167, 176);" rx="0.835" ry="0.835"/>
+  <rect x="283.905" y="359.156" width="16" height="8" style="fill: rgb(15, 152, 181);"/>  
 </svg>
